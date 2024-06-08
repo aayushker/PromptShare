@@ -1,0 +1,5 @@
+# Ignore Next.js cache
+.next/
+
+# Ignore VS Code cache
+.vscode/
