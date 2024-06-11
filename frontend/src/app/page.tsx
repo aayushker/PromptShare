@@ -13,8 +13,6 @@ const Home = () => {
         <p className="desc text-center">
           PromptShare is a platform for sharing prompts for writing, drawing, and other creative activities.
         </p>
-
-        <Feed />
     </section>
   )
 }
