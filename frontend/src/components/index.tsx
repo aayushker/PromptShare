@@ -1,7 +1,8 @@
+"use client";
 import { useEffect, useState } from 'react';
 import axios from 'axios';
 
-const Home = () => {
+const Call = () => {
   const [prompts, setPrompts] = useState<Prompt[]>([]);
 
   useEffect(() => {
@@ -35,4 +36,4 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default Call;
