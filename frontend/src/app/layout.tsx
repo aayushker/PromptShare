@@ -11,7 +11,6 @@ const Root = ({ children }: { children: React.ReactNode }) => {
         <div className="main">
           <div className="gradient"/>
         </div>
-
         <div className="app">
           {children}
         </div>
